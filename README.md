@@ -49,3 +49,7 @@ If Instagram or YouTube rename their views in an update and detection stops work
 `PAGE_IDS` / `PAGER_IDS` / `ITEM_IDS` lists at the bottom of `ReelCounterService.kt`. You can find
 the current IDs with Android Studio's *Layout Inspector*, or with
 `adb shell uiautomator dump /sdcard/ui.xml && adb pull /sdcard/ui.xml` while the player is open.
+
+## License
+
+[MIT](LICENSE): free to use, modify and share, including commercially, as long as the copyright notice is kept.
