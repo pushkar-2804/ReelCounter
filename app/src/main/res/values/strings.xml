@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="service_description">Counts how many Instagram Reels and YouTube Shorts you scroll through and shows a live counter while you are watching them. It only looks at those two apps, and all data stays on this device.</string>
+    <string name="service_label">Reel Counter</string>
+</resources>
